@@ -1,0 +1,38 @@
+{
+  "id": "d2811e3b-493c-4b68-bf79-63c234a19ef2",
+  "name": "Testv20_2",
+  "publisher": "Defaultpublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "426a9c6d-333f-4a41-9a3a-d2a4a598c95e",
+      "publisher": "Defaultpublisher",
+      "name": "Testv20",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "e4b61a40-259e-41ac-ac43-7eed8f658e6a",
+      "publisher": "Defaultpublisher",
+      "name": "Testv20_1",
+      "version": "1.0.0.0"
+    }        
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50130
+    }
+  ],
+  "resourceExposurePolicy": {},
+  "runtime": "9.0"
+}

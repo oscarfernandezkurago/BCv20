@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".\\Testv20"
+		},
+		{
+			"path": ".\\Testv20_1"
+		},
+		{
+			"path": ".\\Testv20_2"
+		}
+	],
+	"settings": {
+		"al.packageCachePath": "../.alpackages",
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "426a9c6d-333f-4a41-9a3a-d2a4a598c95e",
+  "name": "Testv20",
+  "publisher": "Defaultpublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50110
+    }
+  ],
+  "resourceExposurePolicy": {},
+  "runtime": "9.0"
+}
